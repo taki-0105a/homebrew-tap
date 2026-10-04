@@ -1,8 +1,8 @@
 class Sharescale < Formula
   desc "Keep the display scale of a Mac you control with Screen Sharing at 1x or 2x"
   homepage "https://github.com/taki-0105a/ShareScale"
-  url "https://github.com/taki-0105a/ShareScale/releases/download/v1.0.0/sharescale-1.0.0.tar.gz"
-  sha256 "7ec33e497a0b3eecd0c5df41e174a90b1f46362a8ee126e613e280b9c939a1dc"
+  url "https://github.com/taki-0105a/ShareScale/releases/download/v1.0.1/sharescale-1.0.1.tar.gz"
+  sha256 "fa9e3bf96bfa590ef5c39e173476557b2097ae0c4da890a1b2e8face614d3c05"
   license "MIT"
 
   depends_on arch: :arm64
